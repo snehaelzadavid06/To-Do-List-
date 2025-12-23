@@ -7,7 +7,6 @@ The application allows users to add tasks and view the list of added tasks throu
 - Add tasks
 - View all added tasks
 - Menu-driven console interface
-- Lightweight and beginner-friendly design
 
 ## Concepts Used
 - Java fundamentals
